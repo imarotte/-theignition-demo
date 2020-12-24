@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ @Copyright © 2016-2020 Isaac Marotte - All Rights Reserved
+  ~
+  ~ This file is the sole property of its owner.
+  ~ Unauthorized use of this file, via any medium or form, whole or in part,
+  ~ is strictly prohibited without the expressed written permission of Isaac Marotte
+  ~
+  ~ This file is proprietary and confidential
+  ~
+  ~ Last Modified: 2020.12.24
+  -->
+
+<browserconfig><msapplication><tile><square70x70logo src="/ms-icon-70x70.png"/><square150x150logo src="/ms-icon-150x150.png"/><square310x310logo src="/ms-icon-310x310.png"/><TileColor>#ffffff</TileColor></tile></msapplication></browserconfig>
